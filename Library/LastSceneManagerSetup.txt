@@ -1,0 +1,5 @@
+sceneSetups:
+- path: Assets/Week 3 Raycast/Week 3 Raycast.unity
+  isLoaded: 1
+  isActive: 1
+  isSubScene: 0
